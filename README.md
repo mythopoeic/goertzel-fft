@@ -26,13 +26,13 @@ But the computational time is related to the size of data. If we need to analyze
   (but you won't be able to run scripts of [verification](#Algorithm-verification) and [benchmark](#Run-benchmark))
 
   ```bash
-  $ pip install git+https://github.com/NaleRaphael/goertzel-fft.git
+  $ pip install git+https://github.com/mythopoeic/goertzel-fft.git
   ```
 
 * Clone and install from source
 
   ```bash
-  $ git clone https://github.com/NaleRaphael/goertzel-fft.git
+  $ git clone https://github.com/mythopoeic/goertzel-fft.git
   $ cd goertzel-fft
   $ pip install .
   ```
